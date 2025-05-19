@@ -3,7 +3,7 @@ A responsive and modern landing page for TechLearn Solutions, designed as part o
 
 
 1. Download or clone this repository.
-2. Open `index.html` in any web browser.
+2. Open `homepage.html` in any web browser.
 3. No server setup required.s
 
 
